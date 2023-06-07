@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Beginning to apply basic concepts 
